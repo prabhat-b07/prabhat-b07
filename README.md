@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML,CSS and Javascript.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me:-
-- You can mail me at prabhattiwari578@gmail.com.
+- You can mail me at prabhattiwari578@gmail.com. 
 
 <!---
 prabhat-b07/prabhat-b07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
