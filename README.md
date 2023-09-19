@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prabhat-b07
-- 👀 I’m interested in web development.
+- 👀 I’m interested in web development projects.
 - 🌱 I’m currently learning HTML,CSS and Javascript.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me:-
