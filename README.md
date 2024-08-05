@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prabhat-b07
-- 👀 I’m interested in web development projects.
-- 🌱 I’m currently learning HTML,CSS and Javascript.
-- 💞️ I’m looking to collaborate on web development projects.
+- 👀 I’m interested in app development projects.
+- 🌱 I’m currently learning Dart and flutter.
+- 💞️ I’m looking to collaborate on app development projects.
 - 📫 How to reach me:-
 - You can mail me at prabhattiwari578@gmail.com. 
 
