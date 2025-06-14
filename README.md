@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prabhat-b07
-- 👀 I’m interested in app development projects.
-- 🌱 I’m currently learning Dart and flutter.
-- 💞️ I’m looking to collaborate on app development projects.
+- 👀 I’m interested in Java Backend projects.
+- 🌱 I’ve learnt Core Java, Hibernate, and SpringBoot.
+- 💞️ I’m looking to collaborate on Java Backend projects.
 - 📫 How to reach me:-
 - You can mail me at prabhattiwari578@gmail.com. 
 
